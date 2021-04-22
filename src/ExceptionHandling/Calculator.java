@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Calculator extends Exception {
     public static void main(String[] args) {
-        System.out.println("--------------------------------------------");
         System.out.println("-------------Assubay Miras------------------");
         System.out.println("--------------------------------------------");
         while (true) {
